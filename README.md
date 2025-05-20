@@ -28,16 +28,15 @@ Website ini dibuat sebagai latihan dasar HTML dan CSS, khususnya untuk membangun
 
 ## 📁 Struktur Folder
 
-📁 project-folder
-│
-├── index.html
-├── style.css
-├── README.md
-└── assets/
-└── image/
-└── biodata.png
-└── stopmapfolio.png
-
+📁 project-folder  
+│  
+├── index.html  
+├── style.css  
+├── README.md  
+└── assets/  
+  └── image/  
+    ├── biodata.png  
+    └── stopmapfolio.png
 
 ---
 
@@ -71,7 +70,7 @@ Projek ini bertujuan untuk:
 
 > ![Tampilan Web di Komputer](assets/screenshot/tampilan-komputer.png)
 > ![Tampilan Web di Handphone](assets/screenshot/tampilan-gawai.png)
-> ![](assets/screenshot/tampilan-gawai.png)
+> ![Tampilan Web di Handphone](assets/screenshot/tampilan-gawai2.png)
 
 ---
 
