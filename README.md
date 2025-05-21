@@ -50,9 +50,7 @@ Website ini dibuat sebagai latihan dasar HTML dan CSS, khususnya untuk membangun
 
 ## 🔗 Link Sosial Media
 
-Gambar pada `content-1` dapat diklik dan akan menuju profil Facebook Aa:
-[facebook.com/hello.febrian](http://facebook.com/hello.febrian)
-
+Gambar pada `content-1` dapat diklik dan akan menuju profil Facebook saya
 ---
 
 ## 👨‍💻 Tujuan Projek
